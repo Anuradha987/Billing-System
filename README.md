@@ -1,2 +1,3 @@
+[Billing Software.zip](https://github.com/Anuradha987/Billing-System/files/6978097/Billing.Software.zip)
 # Billing-System
-A software created for the billing system of the Smart Shopping Cart. 
+A software created for the billing system of the Smart Shopping Cart. Build with C#-visual studio and Microsoft SQL database. This software facilitates the customers to do their shopping payments without going to the cachier or standing on long queues. It reads the barcode values using a barcode reader. After customer done with their shopping, they can do their payments either from cash or card payments. If the choose the card payment method, a message about the transaction will send to the customers mobile phone. Also, a bill is being generated after each payment of the customer. 
