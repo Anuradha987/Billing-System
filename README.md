@@ -2,6 +2,8 @@
 This system was created as a feature of the Smart Shopping Cart. It is built using C# and MS SQL. This software facilitates the customers to do their shopping payments without going to the cashier or standing in long queues. It reads the barcode values using a barcode reader. After the customer is done with their shopping, he/she can make their payments either from cash or card payments via the system. If they complete their payments using credit/debit cards, a message about the transaction will be sent to the customer's mobile phone. Also, a bill will be generated after each payment for the customer. 
 
 Below are some of the screenshots of the system. 
+![IMG_2470](https://user-images.githubusercontent.com/68071470/191109661-9303c068-33c1-4822-9b28-015a8d294f3f.JPG)
+
 
 
 1) Scanning items using the barcode reader
